@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PAMMIFTA</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="tanggal_film">Tanggal Film</string>
+
+    <string name="deskripsi_film">Deskripsi Film</string>
+</resources>
